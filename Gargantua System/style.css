@@ -1,0 +1,250 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    background-image: url(https://media.istockphoto.com/id/498478219/photo/stars-at-night-sky.webp?b=1&s=170667a&w=0&k=20&c=h9OIWHvnqDfqgJp-6fwXcfitObtsEl1GowkqmF-mh44=);
+}
+.body {
+    position: absolute;    
+}
+#gargantua {
+    top: 50%;
+    left: 50%;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 50%;
+    box-shadow: 0 0 50px white;
+    height: 40px;
+    width: 40px;
+    margin-top: -40.5px; 
+    margin-left: -45.5px;
+}
+#miller {
+    top: 0%;
+    left: 50%;
+    background-color: aquamarine;
+    border-radius: 50%;
+    height: 3px;
+    width: 3px;
+    margin-top: -11.25px;
+    margin-left: -11.25px;
+}
+#miller-orbit {
+    top: 50%;
+    left: 50%;
+    width: 100px;
+    height: 100px;
+    margin-top: -70px;
+    margin-left: -70px;
+    -webkit-animation: spin-right 3s linear infinite;
+    -moz-animation: spin-right 3s linear infinite;
+    animation: spin-right 3s linear infinite;
+}
+#pantagruel {
+    top: 0%;
+    left: 50%;
+    background-color: lightskyblue;
+    border-radius: 50%;
+    box-shadow: 0 0 30px 20px lightskyblue;
+    height: 2px;
+    width: 2px;
+    margin-top: -18.75px;
+    margin-left: -18.75px;
+}
+#pantagruel-orbit {
+    top: 50%;
+    left: 50%;
+    width: 200px;
+    height: 200px;
+    margin-left: -125px;
+    margin-top: -125px;
+    -webkit-animation: spin-right 6s linear infinite;
+    -moz-animation: spin-right 6s linear infinite;
+    animation: spin-right 6s linear infinite;
+}
+#edmund {
+    background-color: rgb(255, 154, 242);
+    border-radius: 50%;
+    height: 3px;
+    width: 3px;
+    margin-top: -5px;
+    margin-left: -5px;
+}
+#edmund-orbit {
+    top: 0%;
+    left: 50%;
+    width: 40px;
+    height: 40px;
+    margin-top: -35px;
+    margin-left: -35px;  
+    -webkit-animation: spin-right 3s linear infinite;
+    -moz-animation: spin-right 3s linear infinite;
+    animation: spin-right 3s linear infinite;
+}
+#mann {
+    top: 0%;
+    left: 50%;
+    background-color: white;
+    border-radius: 50%;
+    height: 3px;
+    width: 3px;
+    margin-top: -18.75px;
+    margin-left: -18.75px;
+}
+#mann-orbit {
+    top: 50%;
+    left: 50%;
+    width: 325px;
+    height: 325px;
+    margin-left: -180px;
+    margin-top: -180px;
+    -webkit-animation: spin-right 9s linear infinite;
+    -moz-animation: spin-right 9s linear infinite;
+    animation: spin-right 9s linear infinite;
+}
+#panurge {
+    top: 0%;
+    left: 50%;
+    background-color: red;
+    border-radius: 50%;
+    box-shadow: 0 0 40px 15px red;
+    height: 15px;
+    width: 15px;
+    margin-top: -32.5px;
+    margin-left: -32.5px;
+}
+#panurge-orbit {
+    top: 50%;
+    left: 50%;
+    width: 600px;
+    height: 600px;
+    margin-left: -300px;
+    margin-top: -300px;
+    -webkit-animation: spin-right 18s linear infinite;
+    -moz-animation: spin-right 18s linear infinite;
+    animation: spin-right 18s linear infinite;
+}
+#panurge1 {
+    background-color: salmon;
+    border-radius: 50%;
+    height: 1.5px;
+    width: 1.5px;
+    margin-top: -5px;
+    margin-left: -5px;
+}
+#panurge1-orbit {
+    top: 0%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin-top: -35px;
+    margin-left: -35px;  
+    -webkit-animation: spin-right 3s linear infinite;
+    -moz-animation: spin-right 3s linear infinite;
+    animation: spin-right 3s linear infinite;
+}
+#panurge2 {
+    background-color: rgb(255, 216, 197);
+    border-radius: 50%;
+    height: 4px;
+    width: 4px;
+    margin-top: -5px;
+    margin-left: -5px;
+}
+#panurge2-orbit {
+    top: 0%;
+    left: 50%;
+    width: 40px;
+    height: 40px;
+    margin-top: -45px;
+    margin-left: -45px;  
+    -webkit-animation: spin-right 6s linear infinite;
+    -moz-animation: spin-right 6s linear infinite;
+    animation: spin-right 6s linear infinite;
+}
+#panurge3 {
+    background-color: brown;
+    border-radius: 50%;
+    height: 2.5px;
+    width: 2.5px;
+    margin-top: -5px;
+    margin-left: -5px;
+}
+#panurge3-orbit {
+    top: 0%;
+    left: 50%;
+    width: 60px;
+    height: 60px;
+    margin-top: -55px;
+    margin-left: -55px;  
+    -webkit-animation: spin-right 9s linear infinite;
+    -moz-animation: spin-right 9s linear infinite;
+    animation: spin-right 9s linear infinite;
+}
+#panurge4 {
+    background-color: rgb(253, 167, 158);
+    border-radius: 50%;
+    height: 5px;
+    width: 5px;
+    margin-top: -5px;
+    margin-left: -5px;
+}
+#panurge4-orbit {
+    top: 0%;
+    left: 50%;
+    width: 80px;
+    height: 80px;
+    margin-top: -65px;
+    margin-left: -65px;  
+    -webkit-animation: spin-right 12s linear infinite;
+    -moz-animation: spin-right 12s linear infinite;
+    animation: spin-right 12s linear infinite;
+}
+#panurge5 {
+    background-color: salmon;
+    border-radius: 50%;
+    height: 2.5px;
+    width: 2.5px;
+    margin-top: -5px;
+    margin-left: -5px;
+}
+#panurge5-orbit {
+    top: 0%;
+    left: 50%;
+    width: 100px;
+    height: 100px;
+    margin-top: -75px;
+    margin-left: -75px;  
+    -webkit-animation: spin-right 15s linear infinite;
+    -moz-animation: spin-right 15s linear infinite;
+    animation: spin-right 15s linear infinite;
+}
+#panurge6 {
+    background-color: blue;
+    border-radius: 50%;
+    height: 6px;
+    width: 6px;
+    margin-top: -5px;
+    margin-left: -5px;
+}
+#panurge6-orbit {
+    top: 0%;
+    left: 50%;
+    width: 120px;
+    height: 120px;
+    margin-top: -85px;
+    margin-left: -85px; 
+    -webkit-animation: spin-right 18s linear infinite;
+    -moz-animation: spin-right 18s linear infinite;
+    animation: spin-right 18s linear infinite;
+}
+@-webkit-keyframes spin-right {
+    100% {
+      -webkit-transform: rotate(360deg);
+    }
+}
+
+@-moz-keyframes spin-right {
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
