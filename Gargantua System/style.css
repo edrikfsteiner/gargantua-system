@@ -3,11 +3,9 @@ html, body {
     height: 100%;
     background-image: url(https://media.istockphoto.com/id/498478219/photo/stars-at-night-sky.webp?b=1&s=170667a&w=0&k=20&c=h9OIWHvnqDfqgJp-6fwXcfitObtsEl1GowkqmF-mh44=);
 }
-
 .body {
     position: absolute;    
 }
-
 #gargantua {
     top: 50%;
     left: 50%;
@@ -20,7 +18,6 @@ html, body {
     margin-top: -40.5px; 
     margin-left: -45.5px;
 }
-
 #miller {
     top: 0%;
     left: 50%;
@@ -31,7 +28,6 @@ html, body {
     margin-top: -11.25px;
     margin-left: -11.25px;
 }
-
 #miller-orbit {
     top: 50%;
     left: 50%;
@@ -43,7 +39,6 @@ html, body {
     -moz-animation: spin-right 3s linear infinite;
     animation: spin-right 3s linear infinite;
 }
-
 #pantagruel {
     top: 0%;
     left: 50%;
@@ -55,7 +50,6 @@ html, body {
     margin-top: -18.75px;
     margin-left: -18.75px;
 }
-
 #pantagruel-orbit {
     top: 50%;
     left: 50%;
@@ -67,7 +61,6 @@ html, body {
     -moz-animation: spin-right 6s linear infinite;
     animation: spin-right 6s linear infinite;
 }
-
 #edmund {
     background-color: rgb(255, 154, 242);
     border-radius: 50%;
@@ -76,7 +69,6 @@ html, body {
     margin-top: -5px;
     margin-left: -5px;
 }
-
 #edmund-orbit {
     top: 0%;
     left: 50%;
@@ -88,7 +80,6 @@ html, body {
     -moz-animation: spin-right 3s linear infinite;
     animation: spin-right 3s linear infinite;
 }
-
 #mann {
     top: 0%;
     left: 50%;
@@ -99,7 +90,6 @@ html, body {
     margin-top: -18.75px;
     margin-left: -18.75px;
 }
-
 #mann-orbit {
     top: 50%;
     left: 50%;
@@ -111,7 +101,6 @@ html, body {
     -moz-animation: spin-right 9s linear infinite;
     animation: spin-right 9s linear infinite;
 }
-
 #panurge {
     top: 0%;
     left: 50%;
@@ -123,7 +112,6 @@ html, body {
     margin-top: -32.5px;
     margin-left: -32.5px;
 }
-
 #panurge-orbit {
     top: 50%;
     left: 50%;
@@ -135,8 +123,7 @@ html, body {
     -moz-animation: spin-right 18s linear infinite;
     animation: spin-right 18s linear infinite;
 }
-
-#panurge1 {
+#zerathia {
     background-color: salmon;
     border-radius: 50%;
     height: 1.5px;
@@ -144,8 +131,7 @@ html, body {
     margin-top: -5px;
     margin-left: -5px;
 }
-
-#panurge1-orbit {
+#zerathia-orbit {
     top: 0%;
     left: 50%;
     width: 20px;
@@ -156,8 +142,7 @@ html, body {
     -moz-animation: spin-right 3s linear infinite;
     animation: spin-right 3s linear infinite;
 }
-
-#panurge2 {
+#kytheron {
     background-color: rgb(255, 216, 197);
     border-radius: 50%;
     height: 4px;
@@ -165,8 +150,7 @@ html, body {
     margin-top: -5px;
     margin-left: -5px;
 }
-
-#panurge2-orbit {
+#kytheron-orbit {
     top: 0%;
     left: 50%;
     width: 40px;
@@ -177,8 +161,7 @@ html, body {
     -moz-animation: spin-right 6s linear infinite;
     animation: spin-right 6s linear infinite;
 }
-
-#panurge3 {
+#pannotia {
     background-color: brown;
     border-radius: 50%;
     height: 2.5px;
@@ -186,8 +169,7 @@ html, body {
     margin-top: -5px;
     margin-left: -5px;
 }
-
-#panurge3-orbit {
+#pannotia-orbit {
     top: 0%;
     left: 50%;
     width: 60px;
@@ -198,8 +180,7 @@ html, body {
     -moz-animation: spin-right 9s linear infinite;
     animation: spin-right 9s linear infinite;
 }
-
-#panurge4 {
+#eressea {
     background-color: rgb(253, 167, 158);
     border-radius: 50%;
     height: 5px;
@@ -207,8 +188,7 @@ html, body {
     margin-top: -5px;
     margin-left: -5px;
 }
-
-#panurge4-orbit {
+#eressea-orbit {
     top: 0%;
     left: 50%;
     width: 80px;
@@ -219,8 +199,7 @@ html, body {
     -moz-animation: spin-right 12s linear infinite;
     animation: spin-right 12s linear infinite;
 }
-
-#panurge5 {
+#elunari {
     background-color: salmon;
     border-radius: 50%;
     height: 2.5px;
@@ -228,8 +207,7 @@ html, body {
     margin-top: -5px;
     margin-left: -5px;
 }
-
-#panurge5-orbit {
+#elunari-orbit {
     top: 0%;
     left: 50%;
     width: 100px;
@@ -240,8 +218,7 @@ html, body {
     -moz-animation: spin-right 15s linear infinite;
     animation: spin-right 15s linear infinite;
 }
-
-#panurge6 {
+#neridia {
     background-color: blue;
     border-radius: 50%;
     height: 6px;
@@ -249,8 +226,7 @@ html, body {
     margin-top: -5px;
     margin-left: -5px;
 }
-
-#panurge6-orbit {
+#neridia-orbit {
     top: 0%;
     left: 50%;
     width: 120px;
@@ -261,7 +237,6 @@ html, body {
     -moz-animation: spin-right 18s linear infinite;
     animation: spin-right 18s linear infinite;
 }
-
 @-webkit-keyframes spin-right {
     100% {
       -webkit-transform: rotate(360deg);
