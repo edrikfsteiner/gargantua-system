@@ -1,0 +1,1 @@
+A very simple project that simulates a fictional stellar system, using only and pure HTML and CSS. The system is based upon the Gargantua System from the Interstellar movie, with the planets Miller, Edmund and Mann in the first, second and third orbits respectively.
